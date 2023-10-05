@@ -11,9 +11,6 @@ const two = 80/4*2
 
 const three = 100-80+19
 
-
-console.log(one,two,three)
-
-alert (stringVar + one, + +two, + three)
+alert (stringVar + one+ "/"+ two + "/" +three)
 
 
